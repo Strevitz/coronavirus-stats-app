@@ -1,6 +1,6 @@
 {
   "name": "coronavirus-stats-app",
-  "homepage": ".",
+  "homepage": "https://strevitz.github.io/coronavirus-stats-app/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
